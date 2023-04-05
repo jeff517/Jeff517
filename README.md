@@ -2,7 +2,6 @@
 
 <p>Kayra Karabulut</p>
 
-<p>My website: kayrakarabulut.com
-My E-Mail: iletisim@kayrakarabulut.com
-</p>
+<p>My website: kayrakarabulut.com </p>
+<p>My E-Mail: iletisim@kayrakarabulut.com</p>
 
