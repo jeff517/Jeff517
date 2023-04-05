@@ -3,5 +3,5 @@
 <p>Kayra Karabulut</p>
 
 <p>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com </p>
-<p>My E-Mail: iletisim@kayrakarabulut.com</p>
+<p>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com</p>
 
