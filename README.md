@@ -2,7 +2,7 @@
 
 <p>Kayra Karabulut</p>
 
-<p>My website: <a href="https://www.kayrakarabulut.com" content="kayrakarabulut.com">
-My E-Mail: info@ahmetcevikofficial.com
+<p>My website: kayrakarabulut.com
+My E-Mail: iletisim@kayrakarabulut.com
 </p>
 
