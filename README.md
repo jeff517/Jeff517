@@ -5,10 +5,11 @@
   </h3>
 <br>
   <h2 dir="auto"></h2>
-<p align="center">Kayra Karabulut</p>
-
-<li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com</a></li>
-<li>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com</a></li>
+  <h3 align="center" dir="auto">
+<p dir="auto">Kayra Karabulut</p>
+</h3>
+<p align="center" ><li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com</a></li></p>
+<p align="center" ><li>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com</a></li></p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/533591831443931136)](https://discord.com/users/:533591831443931136)
 
