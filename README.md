@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff517&label=Profile%20views&color=0e75b6&style=flat" alt="jeff517" /> </p>
-
+<p align="center" dir="auto">
 <p dir="auto">Kayra Karabulut</p>
+</p>
 <a href="https://kayrakarabulut.com" rel="dofollow">
 <img alt="kayrakarabulut.com" href="https://www.kayrakarabulut.com" src="https://img.shields.io/website?label=kayrakarabulut.com&amp;style=for-the-badge&amp;url=https%3A%2F%2Fkayrakarabulut.com" style="max-width: 100%;"></a>
 
