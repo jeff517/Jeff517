@@ -4,7 +4,7 @@
 <img alt="kayrakarabulut.com" href="https://www.kayrakarabulut.com" src="https://img.shields.io/website?label=kayrakarabulut.com&amp;style=for-the-badge&amp;url=https%3A%2F%2Fkayrakarabulut.com" style="max-width: 100%;"></a>
   </h3>
 <br>
-  <h2 dir="auto"></h2>
+  <h2 dir="auto">asd</h2>
 <p dir="auto">Kayra Karabulut</p>
 
 <li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com</a></li>
