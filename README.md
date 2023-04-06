@@ -15,7 +15,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/533591831443931136)](https://discord.com/users/:533591831443931136)
 
+<h3 align="right" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeff517&amp;show_icons=true&amp;title_color=218ee6&amp;text_color=ffffff&amp;bg_color=0d1117&amp;hide_border=true&amp;cache_seconds=0&amp;locale=en&amp;layout=compact">
+  </h3>
 <br>
 <br>
 <h2 dir="auto"></h2>
