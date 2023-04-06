@@ -8,10 +8,10 @@
   <h3 align="center" dir="auto">
 <p dir="auto">Kayra Karabulut</p>
 </h3>
-<h1 align="center" dir="auto">
+<h4 align="center" dir="auto">
 <li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com</a></li>
 <li>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com</a></li>
-  </h1>
+  </h4>
 <br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/533591831443931136)](https://discord.com/users/:533591831443931136)
 
