@@ -9,8 +9,8 @@
 <p dir="auto">Kayra Karabulut</p>
 </h3>
 <h4 align="center" dir="auto">
-<li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com</a></li>
-<li>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com</a></li>
+<li>My website: <a href="https://www.kayrakarabulut.com">kayrakarabulut.com.tr</a></li>
+<li>My E-Mail: <a href="mailto:iletisim@kayrakarabulut.com">iletisim@kayrakarabulut.com.tr</a></li>
   </h4>
 <h2 dir="auto"></h2>
 
